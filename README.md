@@ -9,6 +9,14 @@ Wikipedia została stworzona by ułatwić nowym graczom rozpoczęcie rozgrywki.<
 Na naszym serwerze znajdziesz dużo nowych mechanik, zostały one stworzone tak by pasowały do gry minecraft.
 
 ### WIKI 
+- [Home](https://github.com/GlobMc-pl/Main/wiki)
+- [Generator](https://github.com/globmcpl/Main/wiki/Generator)
 - [Biomy](https://github.com/GlobMc-pl/Main/wiki/Biomy)
+- [Lokalizacja i czas](https://github.com/globmcpl/Main/wiki/Lokalizacja-i-czas)
+- [Przedmioty](https://github.com/globmcpl/Main/wiki/Przedmioty)
 - [Mini bloczki](https://github.com/GlobMc-pl/Main/wiki/Mini-bloczki)
+- [Rozmiar postaci](https://github.com/globmcpl/Main/wiki/Rozmiar-gracza)
 - [Enchanty](https://github.com/GlobMc-pl/Main/wiki/Enchanty)
+- [Jedwabny dotyk](https://github.com/globmcpl/Main/wiki/Jedwabny-doyk)
+- [Ogniska ](https://github.com/globmcpl/Main/wiki/Ogniska)
+- [Wycinka drzew](https://github.com/globmcpl/Main/wiki/Wycinka-drzew)
